@@ -3,3 +3,12 @@
 button {
   cursor: pointer;
 }
+
+#graph {
+  display:flex;
+}
+
+.box {
+  background-color: gray;
+  margin: 5px;
+}
